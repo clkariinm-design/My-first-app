@@ -1,0 +1,6 @@
+{
+  "name": "MacroFlow Pro",
+  "description": "Advanced auto clicker and macro automation tool for custom touch sequences, gestures, and repeat loops without coding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MacroFlow Pro</string>
+    <string name="accessibility_service_name">MacroFlow Pro Automation Service</string>
+    <string name="accessibility_service_description">MacroFlow Pro uses this accessibility service to automatically perform user-configured tap, long press, and swipe gesture sequences on screen as requested by the user. No personal or sensitive data is collected, stored, or transmitted.</string>
+</resources>
